@@ -1,0 +1,6 @@
+{
+    "appSecret": "c10d3b56c3496054fce549658b6bb712",
+    "pageAccessToken": "EAAYf9Cue8f0BALYvjiBOtAvySfF9T9QXjRV7RSGIEtCVYFVeceXPnuGO5bMquf5EcWEfzZBtsbVONkmZAs7Tk3ZAg9ZAnEZAvyKFiRQEnGIZCwbJ1ZBWCQWrOOCZCnVQIZB6ksHTdhxZAjNtZBlyQoCLSzkF4HslCIa1AkGHwDg2gK7xAZDZD",
+    "validationToken": "090078601",
+    "serverURL": "https://nodejs-mongo-persistent-ss-sample.44fs.preview.openshiftapps.com/"
+}
